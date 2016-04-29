@@ -11,6 +11,7 @@ This image provides the following algorithms:
 * [foldalign](http://rth.dk/resources/foldalign/)
 * [LocARNA](http://rna.informatik.uni-freiburg.de/LocARNA/)
 
+This image has also been designed to provide the Web services needed by the RNA 3D modeling tool [Assemble2](http://www.bioinformatics.org/assemble/).
 
 ## [fjossinet/rnaseq](https://hub.docker.com/r/fjossinet/rnaseq/)
 
